@@ -1,5 +1,6 @@
 ---
 title: <ins>
+title: "<ins>: The Inserted Text element"
 slug: Web/HTML/Element/ins
 page-type: html-element
 browser-compat: html.elements.ins
